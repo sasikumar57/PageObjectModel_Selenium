@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-16T07:44:28 IST" name="Default suite" finished-at="2025-10-16T07:44:42 IST" duration-ms="14140">
+    <groups>
+    </groups>
+    <test started-at="2025-10-16T07:44:28 IST" name="Default test" finished-at="2025-10-16T07:44:42 IST" duration-ms="14140">
+      <class name="pomTestFiles.Logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:28 IST" name="setup" finished-at="2025-10-16T07:44:37 IST" duration-ms="8369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidLogin()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:37 IST" name="ValidLogin" finished-at="2025-10-16T07:44:38 IST" duration-ms="1031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:38 IST" name="tearDown" finished-at="2025-10-16T07:44:38 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:38 IST" name="setup" finished-at="2025-10-16T07:44:41 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidLoginwithoutUN()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:41 IST" name="invalidLoginwithoutUN" finished-at="2025-10-16T07:44:42 IST" duration-ms="576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginwithoutUN -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pomTestFiles.Logintest@1c1bbc4e]" started-at="2025-10-16T07:44:42 IST" name="tearDown" finished-at="2025-10-16T07:44:42 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pomTestFiles.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
